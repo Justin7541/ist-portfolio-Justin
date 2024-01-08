@@ -12,4 +12,5 @@ git commit -m "Commit message"
 git push
 ```
 
-![BMW M3 E30](https://cdn.motor1.com/images/mgl/m6K7e/s3/bmw-e30-m3-by-redux.jpg0)
+![BMW M3 E30](https://cdn.carbuzz.com/gallery-images/1600/928000/700/928793.jpg)
+
